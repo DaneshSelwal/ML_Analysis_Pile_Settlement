@@ -214,12 +214,3 @@ Each UQ module produces per-model Excel files with the following general structu
 
 ---
 
-## 📄 License
-
-This project is provided for **academic and research purposes**. Please cite appropriately if used in publications.
-
----
-
-<p align="center">
-  <sub>Built with ❤️ for geotechnical machine learning research</sub>
-</p>
